@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2020/05/Specialized-Developers.gif"/>
 
 
-- 🔭 I’m currently working on a **MERN Project**
+- 🔭 Developer support engineer @ **JFROG**🐸
 
 - 📫 reach me on **ron.bzeve@gmail.com**
 
